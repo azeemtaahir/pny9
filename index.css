@@ -1,0 +1,31 @@
+.view{
+    color: black;
+    position: absolute;
+    left: 600px;
+}
+.img1{
+    border: 2px solid rgb(red, green, blue);
+    border-radius: 50%;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+.nav ul{
+    display: flex;
+}
+.nav ul li{
+    list-style-type: none;
+}
+.nav ul li a{
+    padding: 8px 16px;
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+.img-fluid{
+    display: flex;
+    border: 2px solid rgb(red, green, blue);
+    border-radius: 50%;
+}
